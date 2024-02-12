@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Transformers 🎇**
 
-- 🌱 I’m currently learning ** about LLMs**
+- 🌱 I’m currently learning **about LLMs**
 
 - 📫 Reach me **k25harikesh.s@gmail.com**
 
@@ -14,8 +14,6 @@
 <a href="https://twitter.com/k25harikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k25harikesh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/k25harikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k25harikesh" height="30" width="40" /></a>
 <a href="https://instagram.com/k25harikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k25harikesh" height="30" width="40" /></a>
-<a href="https://medium.com/@k25harikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@k25harikesh" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/k25harikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="k25harikesh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
