@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Transformers 🎇**
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning ** about LLMs**
 
-- 📫 How to reach me **k25harikesh.s@gmail.com**
+- 📫 Reach me **k25harikesh.s@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
