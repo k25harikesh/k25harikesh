@@ -9,14 +9,6 @@
 
 - 📫 Reach me: **k25harikesh.s@gmail.com**
 
-# Connect with me:
-
-<p align="left">
-<a href="https://twitter.com/k25harikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k25harikesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/k25harikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k25harikesh" height="30" width="40" /></a>
-<a href="https://instagram.com/k25harikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k25harikesh" height="30" width="40" /></a>
-</p>
-
 # 💻 Tech Stack:
 <p align="left"> 
 
@@ -32,5 +24,3 @@
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
 
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k25harikesh&show_icons=true&locale=en&layout=compact" alt="k25harikesh" /></p>
